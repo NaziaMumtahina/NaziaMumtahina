@@ -1,7 +1,5 @@
-
-
 <!--
-**NaziaMumtahina/NaziaMumtahina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952tgqafktgtfgk90cahgg8uv1ncmfd1esyq0n9288t&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
