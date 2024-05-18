@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <div align="center"> 
-  <a href="https://linked.com/in/nazia-mumtahina">
+  <a href="https://linked.com/in/nazia-mumtahina-5b73a0309/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
   <a href="mailto:naziamumtahina303w@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
